@@ -1,0 +1,244 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: personalize\n"
+"POT-Creation-Date: 2016-04-02 18:53+0200\n"
+"PO-Revision-Date: 2016-06-22 17:07+0200\n"
+"Last-Translator: John Weissberg <jw@printscience.com>\n"
+"Language-Team: \n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../personalize.php:125
+msgid "Product Personalization Settings"
+msgstr "Print Science Designer Settings"
+
+#: ../personalize.php:127
+msgid "API Username"
+msgstr "API Kullanıcı adı"
+
+#: ../personalize.php:128
+msgid "API Key"
+msgstr "API Anahtarı"
+
+#: ../personalize.php:129
+msgid "API Version"
+msgstr "API Sürüm"
+
+#: ../personalize.php:144
+msgid "API URL"
+msgstr "API URL"
+
+#: ../personalize.php:145
+msgid "API Image URL"
+msgstr "API Görüntü URL'si"
+
+#: ../personalize.php:146
+msgid "Window type for launch of Designer"
+msgstr "Tasarımcıyı başlatmak için pencere tipi"
+
+#: ../personalize.php:159
+msgid "Background color of margin surrounding the modal window"
+msgstr "Kalıcı pencereyi çevreleyen kenarlık arka plan rengi"
+
+#: ../personalize.php:159
+msgid "* Specify the background color"
+msgstr "* Arka plan rengini belirtin"
+
+#: ../personalize.php:160
+msgid "Opacity of modal window"
+msgstr "Kalıcı pencere saydamlığı"
+
+#: ../personalize.php:161
+msgid "Width of margin surrounding the modal window"
+msgstr "Kalıcı pencereyi çevreleyen kenarlık genişliği"
+
+#: ../personalize.php:163
+msgid "Save Settings"
+msgstr "Ayarları Kaydet"
+
+#: ../personalize.php:176
+msgid "Personalization"
+msgstr "Kişiselleştirme"
+
+#: ../personalize.php:194
+msgid "Enable Personalization"
+msgstr "Kişiselleştirmeyi Etkinleştir"
+
+#: ../personalize.php:194
+msgid "Enable personalization via Print Science Designer."
+msgstr "Print Science Designer aracılığıyla kişiselleştirmeyi etkinleştir"
+
+#: ../personalize.php:196
+msgid "Product ID"
+msgstr "Ürün ID'si"
+
+#: ../personalize.php:331
+msgid "Add to cart"
+msgstr "Sepete ekle"
+
+#: ../personalize.php:383
+msgid "Personalize"
+msgstr "Kişiselleştir"
+
+#: ../personalize.php:690
+msgid "Remove this item"
+msgstr "Bu ürünü çıkart"
+
+#: ../personalize.php:709 ../personalize.php:774
+msgid "Re-edit"
+msgstr "Yeniden düzenle"
+
+#: ../personalize.php:742
+msgid "Available on backorder"
+msgstr "Ön Siparişe açık"
+
+#: ../personalize.php:969
+msgid "Order Items"
+msgstr "Ürünleri sipariş et"
+
+#: ../personalize.php:969
+msgid ""
+"Note: if you edit quantities or remove items from the order you will need to "
+"manually update stock levels."
+msgstr ""
+"Not: Siparişinizdeki adetleri değiştirirseniz veya siparişinizden ürün "
+"çıkarırsanız stok düzeylerini elle güncellemeniz gerekecektir."
+
+#: ../personalize.php:992
+msgid "Item"
+msgstr "Ürün"
+
+#: ../personalize.php:997
+msgid "Tax Class"
+msgstr "Vergi Sınıfı"
+
+#: ../personalize.php:997
+msgid "Tax class for the line item"
+msgstr "İlgili kalem için vergi sınıfı"
+
+#: ../personalize.php:1000
+msgid "Qty"
+msgstr "Adet"
+
+#: ../personalize.php:1002
+msgid "Totals"
+msgstr "Toplam"
+
+#: ../personalize.php:1002
+msgid "Line subtotals are before pre-tax discounts, totals are after."
+msgstr ""
+"Kalem ara toplamları vergi indiriminden önce alınır, genel toplamlar sonra."
+
+#: ../personalize.php:1005
+msgid "Tax"
+msgstr "Vergi"
+
+#: ../personalize.php:1039
+msgid "Actions"
+msgstr "Eylemler"
+
+#: ../personalize.php:1040
+msgid "Edit"
+msgstr "Düzenle"
+
+#: ../personalize.php:1041
+msgid "Delete Lines"
+msgstr "Kalemleri Sil"
+
+#: ../personalize.php:1043
+msgid "Stock Actions"
+msgstr "Stok Hareketleri"
+
+#: ../personalize.php:1044
+msgid "Reduce Line Stock"
+msgstr "Kalem Stoğunu Azalt"
+
+#: ../personalize.php:1045
+msgid "Increase Line Stock"
+msgstr "Kalem Stoğunu Artır"
+
+#: ../personalize.php:1049
+msgid "Apply"
+msgstr "Uygula"
+
+#: ../personalize.php:1053
+msgid "Search for a product&hellip;"
+msgstr "Bir ürün ve yardım ara;"
+
+#: ../personalize.php:1055
+msgid "Add item(s)"
+msgstr "Ürün(leri) ekle"
+
+#: ../personalize.php:1056
+msgid "Add fee"
+msgstr "Harç ekle"
+
+#: ../woo_include/order-fee-html.php:10
+msgid "Fee Name"
+msgstr "Harç Adı"
+
+#: ../woo_include/order-fee-html.php:17 ../woo_include/order-item-html.php:113
+msgid "Tax class"
+msgstr "Vergi Sınıfı"
+
+#: ../woo_include/order-fee-html.php:19
+msgid "N/A"
+msgstr "N/A"
+
+#: ../woo_include/order-fee-html.php:20
+msgid "Taxable"
+msgstr "Vergilendirilebilir"
+
+#: ../woo_include/order-fee-html.php:25 ../woo_include/order-item-html.php:120
+msgid "Standard"
+msgstr "Standart"
+
+#: ../woo_include/order-fee-html.php:43 ../woo_include/order-item-html.php:139
+msgid "Total"
+msgstr "Toplam"
+
+#: ../woo_include/order-item-html.php:26
+msgid "Product ID:"
+msgstr "Üeün ID'si"
+
+#: ../woo_include/order-item-html.php:29
+msgid "Variation ID:"
+msgstr "Varyasyın ID'si"
+
+#: ../woo_include/order-item-html.php:32
+msgid "Product SKU:"
+msgstr "Ürün SKU'su"
+
+#: ../woo_include/order-item-html.php:64
+msgid "Add&nbsp;meta"
+msgstr "Meta ekle"
+
+#: ../woo_include/order-item-html.php:141
+msgid "Subtotal"
+msgstr "Ara Toplam"
+
+msgid "No file upload required"
+msgstr "Dosya karşıya yükleme gerektirmez"
+
+msgid "Design online"
+msgstr "Çevrimiçi tasarla"
+
+msgid "Customer uploads file"
+msgstr "Müşteri dosya karşıya yükle"
+
+msgid "Customer uploads file OR Design online"
+msgstr "Müşteri dosya karşıya yükle veya çevrimiçi tasarla"
+
+msgid "File source"
+msgstr "Dosya kaynağı"
+
+msgid "Designer configuration"
+msgstr "Tasarımcı yapılandırması"

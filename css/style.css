@@ -1,0 +1,37 @@
+.woocommerce table.cart img, .woocommerce-page table.cart img, .woocommerce #content table.cart img, .woocommerce-page #content table.cart img{
+    width: 109px !important;
+}
+.re_edit{
+    background: -moz-linear-gradient(center top , #AD74A2 0px, #96588A 100%) repeat scroll 0 0 rgba(0, 0, 0, 0) !important;
+    border-color: #76456C !important;
+	color: #FFFFFF !important;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.6) !important;
+	padding: 3px 10px !important;
+	margin-left:12% !important;
+}
+.print-products-area .artwork-files-list,
+.print-products-area .product-artwork-files-list{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+.print-products-area .artwork-files-list li,
+.print-products-area .product-artwork-files-list li{
+	float: left;
+	margin:0 3px 3px 0;
+	width: 70px;
+}
+.print-products-area .personalizationGallery{
+	width: 70px;
+}
+.editimagediv{
+	margin-top:5px;
+}
+.download-pdf-box{
+	margin-top:5px;
+}
+.house-mls-id{
+	clear:both;
+	margin-bottom:10px;
+}

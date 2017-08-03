@@ -1,0 +1,245 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: personalize\n"
+"POT-Creation-Date: 2016-04-02 18:53+0200\n"
+"PO-Revision-Date: 2016-06-22 17:07+0200\n"
+"Last-Translator: John Weissberg <jw@printscience.com>\n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../personalize.php:125
+msgid "Product Personalization Settings"
+msgstr "Configuración del Designer"
+
+#: ../personalize.php:127
+msgid "API Username"
+msgstr "Nombre de Usuario del API"
+
+#: ../personalize.php:128
+msgid "API Key"
+msgstr "Llave API"
+
+#: ../personalize.php:129
+msgid "API Version"
+msgstr "Versión API"
+
+#: ../personalize.php:144
+msgid "API URL"
+msgstr "URL API"
+
+#: ../personalize.php:145
+msgid "API Image URL"
+msgstr "URL Imagen API"
+
+#: ../personalize.php:146
+msgid "Window type for launch of Designer"
+msgstr "Tipo ventana para usar el Designer"
+
+#: ../personalize.php:159
+msgid "Background color of margin surrounding the modal window"
+msgstr "Color de fondo para el margen rodeando el modo ventana"
+
+#: ../personalize.php:159
+msgid "* Specify the background color"
+msgstr "* Especificar el color de fondo"
+
+#: ../personalize.php:160
+msgid "Opacity of modal window"
+msgstr "Opacidad del modo ventana"
+
+#: ../personalize.php:161
+msgid "Width of margin surrounding the modal window"
+msgstr "Ancho del margen que rodea el modo ventana"
+
+#: ../personalize.php:163
+msgid "Save Settings"
+msgstr "Guardar configuración"
+
+#: ../personalize.php:176
+msgid "Personalization"
+msgstr "Personalización"
+
+#: ../personalize.php:194
+msgid "Enable Personalization"
+msgstr "Habilitar personalización"
+
+#: ../personalize.php:194
+msgid "Enable personalization via Print Science Designer."
+msgstr "Habilitar personalización a través de Print Science Designer."
+
+#: ../personalize.php:196
+msgid "Product ID"
+msgstr "ID de Producto"
+
+#: ../personalize.php:331
+msgid "Add to cart"
+msgstr "Agregar a carro"
+
+#: ../personalize.php:383
+msgid "Personalize"
+msgstr "Personalizar"
+
+#: ../personalize.php:690
+msgid "Remove this item"
+msgstr "Remover este objeto"
+
+#: ../personalize.php:709 ../personalize.php:774
+msgid "Re-edit"
+msgstr "Re-editar"
+
+#: ../personalize.php:742
+msgid "Available on backorder"
+msgstr "Disponible con atraso de entrega"
+
+#: ../personalize.php:969
+msgid "Order Items"
+msgstr "Ordenar objetos"
+
+#: ../personalize.php:969
+msgid ""
+"Note: if you edit quantities or remove items from the order you will need to "
+"manually update stock levels."
+msgstr ""
+"Nota: Si edita las cantidades o remueve objetos de la orden usted deberá "
+"actualizar manualmente el nivel de inventario."
+
+#: ../personalize.php:992
+msgid "Item"
+msgstr "Objeto"
+
+#: ../personalize.php:997
+msgid "Tax Class"
+msgstr "Tipo de Impuesto"
+
+#: ../personalize.php:997
+msgid "Tax class for the line item"
+msgstr "Tipo de impuesto for el objeto"
+
+#: ../personalize.php:1000
+msgid "Qty"
+msgstr "Cantidad"
+
+#: ../personalize.php:1002
+msgid "Totals"
+msgstr "Totales"
+
+#: ../personalize.php:1002
+msgid "Line subtotals are before pre-tax discounts, totals are after."
+msgstr ""
+"Los subtotales de línea son antes de descuentos previos a impuestos, los "
+"totales son después de ello."
+
+#: ../personalize.php:1005
+msgid "Tax"
+msgstr "Impuesto"
+
+#: ../personalize.php:1039
+msgid "Actions"
+msgstr "Acciones"
+
+#: ../personalize.php:1040
+msgid "Edit"
+msgstr "Editar"
+
+#: ../personalize.php:1041
+msgid "Delete Lines"
+msgstr "Borrar líneas"
+
+#: ../personalize.php:1043
+msgid "Stock Actions"
+msgstr "Acciones de inventario"
+
+#: ../personalize.php:1044
+msgid "Reduce Line Stock"
+msgstr "Reducir inventario de línea"
+
+#: ../personalize.php:1045
+msgid "Increase Line Stock"
+msgstr "Incrementar inventario de línea"
+
+#: ../personalize.php:1049
+msgid "Apply"
+msgstr "Aplicar"
+
+#: ../personalize.php:1053
+msgid "Search for a product&hellip;"
+msgstr "Buscar un producto&hellip;"
+
+#: ../personalize.php:1055
+msgid "Add item(s)"
+msgstr "Agreagar objeto(s)"
+
+#: ../personalize.php:1056
+msgid "Add fee"
+msgstr "Agregar cuota"
+
+#: ../woo_include/order-fee-html.php:10
+msgid "Fee Name"
+msgstr "Nombre de cuota"
+
+#: ../woo_include/order-fee-html.php:17 ../woo_include/order-item-html.php:113
+msgid "Tax class"
+msgstr "Tipo de impuesto"
+
+#: ../woo_include/order-fee-html.php:19
+msgid "N/A"
+msgstr "N/A"
+
+#: ../woo_include/order-fee-html.php:20
+msgid "Taxable"
+msgstr "Sujeto a impuestos"
+
+#: ../woo_include/order-fee-html.php:25 ../woo_include/order-item-html.php:120
+msgid "Standard"
+msgstr "Estándar"
+
+#: ../woo_include/order-fee-html.php:43 ../woo_include/order-item-html.php:139
+msgid "Total"
+msgstr "Total"
+
+#: ../woo_include/order-item-html.php:26
+msgid "Product ID:"
+msgstr "ID de producto:"
+
+#: ../woo_include/order-item-html.php:29
+msgid "Variation ID:"
+msgstr "ID del templare:"
+
+#: ../woo_include/order-item-html.php:32
+msgid "Product SKU:"
+msgstr "Referencia del producto:"
+
+#: ../woo_include/order-item-html.php:64
+msgid "Add&nbsp;meta"
+msgstr "Agregar&nbsp;meta"
+
+#: ../woo_include/order-item-html.php:141
+msgid "Subtotal"
+msgstr "Subtotal"
+
+msgid "No file upload required"
+msgstr "No se requiere subir un archivo"
+
+msgid "Design online"
+msgstr "Diseñar en línea"
+
+msgid "Customer uploads file"
+msgstr "El cliente sube el archivo"
+
+msgid "Customer uploads file OR Design online"
+msgstr "El cliente sube el archivo O diseña en línea"
+
+msgid "File source"
+msgstr "Fuente del archivo"
+
+msgid "Designer configuration"
+msgstr "Configuración del Designer"

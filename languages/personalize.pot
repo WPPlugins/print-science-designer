@@ -1,0 +1,353 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: personalize\n"
+"POT-Creation-Date: 2014-02-20 13:29+0530\n"
+"PO-Revision-Date: 2014-02-20 13:30+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../personalize.php:125
+msgid "Product Personalization Settings"
+msgstr ""
+
+#: ../personalize.php:127
+msgid "API Username"
+msgstr ""
+
+#: ../personalize.php:128
+msgid "API Key"
+msgstr ""
+
+#: ../personalize.php:129
+msgid "API Version"
+msgstr ""
+
+#: ../personalize.php:144
+msgid "API URL"
+msgstr ""
+
+#: ../personalize.php:145
+msgid "API Image URL"
+msgstr ""
+
+#: ../personalize.php:146
+msgid "Window type for launch of Designer"
+msgstr ""
+
+#: ../personalize.php:159
+msgid "Background color of margin surrounding the modal window"
+msgstr ""
+
+#: ../personalize.php:159
+msgid "* Specify the background color"
+msgstr ""
+
+#: ../personalize.php:160
+msgid "Opacity of modal window"
+msgstr ""
+
+#: ../personalize.php:161
+msgid "Width of margin surrounding the modal window"
+msgstr ""
+
+#: ../personalize.php:163
+msgid "Save Settings"
+msgstr ""
+
+#: ../personalize.php:176
+msgid "Personalization"
+msgstr ""
+
+#: ../personalize.php:194
+msgid "Enable Personalization"
+msgstr ""
+
+#: ../personalize.php:194
+msgid "Enable personalization via Print Science Designer."
+msgstr ""
+
+#: ../personalize.php:196
+msgid "Product ID"
+msgstr ""
+
+#: ../personalize.php:331
+msgid "Add to cart"
+msgstr ""
+
+#: ../personalize.php:383
+msgid "Personalize"
+msgstr ""
+
+#: ../personalize.php:690
+msgid "Remove this item"
+msgstr ""
+
+#: ../personalize.php:709
+msgid "Re-edit"
+msgstr ""
+
+#: ../personalize.php:742
+msgid "Available on backorder"
+msgstr ""
+
+#: ../personalize.php:774
+msgid "Re-edit"
+msgstr ""
+
+#: ../personalize.php:969
+msgid "Order Items"
+msgstr ""
+
+#: ../personalize.php:969
+msgid ""
+"Note: if you edit quantities or remove items from the order you will need to "
+"manually update stock levels."
+msgstr ""
+
+#: ../personalize.php:992
+msgid "Item"
+msgstr ""
+
+#: ../personalize.php:997
+msgid "Tax Class"
+msgstr ""
+
+#: ../personalize.php:997
+msgid "Tax class for the line item"
+msgstr ""
+
+#: ../personalize.php:1000
+msgid "Qty"
+msgstr ""
+
+#: ../personalize.php:1002
+msgid "Totals"
+msgstr ""
+
+#: ../personalize.php:1002
+msgid "Line subtotals are before pre-tax discounts, totals are after."
+msgstr ""
+
+#: ../personalize.php:1005
+msgid "Tax"
+msgstr ""
+
+#: ../personalize.php:1039
+msgid "Actions"
+msgstr ""
+
+#: ../personalize.php:1040
+msgid "Edit"
+msgstr ""
+
+#: ../personalize.php:1041
+msgid "Delete Lines"
+msgstr ""
+
+#: ../personalize.php:1043
+msgid "Stock Actions"
+msgstr ""
+
+#: ../personalize.php:1044
+msgid "Reduce Line Stock"
+msgstr ""
+
+#: ../personalize.php:1045
+msgid "Increase Line Stock"
+msgstr ""
+
+#: ../personalize.php:1049
+msgid "Apply"
+msgstr ""
+
+#: ../personalize.php:1053
+msgid "Search for a product&hellip;"
+msgstr ""
+
+#: ../personalize.php:1055
+msgid "Add item(s)"
+msgstr ""
+
+#: ../personalize.php:1056
+msgid "Add fee"
+msgstr ""
+
+#: ../woo_include/order-fee-html.php:10
+msgid "Fee Name"
+msgstr ""
+
+#: ../woo_include/order-fee-html.php:17 ../woo_include/order-item-html.php:113
+msgid "Tax class"
+msgstr ""
+
+#: ../woo_include/order-fee-html.php:19
+msgid "N/A"
+msgstr ""
+
+#: ../woo_include/order-fee-html.php:20
+msgid "Taxable"
+msgstr ""
+
+#: ../woo_include/order-fee-html.php:25 ../woo_include/order-item-html.php:120
+msgid "Standard"
+msgstr ""
+
+#: ../woo_include/order-fee-html.php:43 ../woo_include/order-item-html.php:139
+msgid "Total"
+msgstr ""
+
+#: ../woo_include/order-item-html.php:26
+msgid "Product ID:"
+msgstr ""
+
+#: ../woo_include/order-item-html.php:29
+msgid "Variation ID:"
+msgstr ""
+
+#: ../woo_include/order-item-html.php:32
+msgid "Product SKU:"
+msgstr ""
+
+#: ../woo_include/order-item-html.php:64
+msgid "Add&nbsp;meta"
+msgstr ""
+
+#: ../woo_include/order-item-html.php:141
+msgid "Subtotal"
+msgstr ""
+
+msgid "Subtotal"
+msgstr ""
+
+msgid "No file upload required"
+msgstr ""
+
+msgid "Design online"
+msgstr ""
+
+msgid "Customer uploads file"
+msgstr ""
+
+msgid "Customer uploads file OR Design online"
+msgstr ""
+
+msgid "File source"
+msgstr ""
+
+msgid "Designer configuration"
+msgstr ""
+
+msgid "Designer API Settings"
+msgstr ""
+
+msgid "Style Settings"
+msgstr ""
+
+msgid "Google API Settings"
+msgstr ""
+
+msgid "You can create Service Account and download JSON file"
+msgstr ""
+
+msgid "here"
+msgstr ""
+
+msgid "Service Account JSON File"
+msgstr ""
+
+msgid "Photos URL Path"
+msgstr ""
+
+msgid "Connection was sucess."
+msgstr ""
+
+msgid "Connection error. Please upload correct JSON file."
+msgstr ""
+
+msgid "Connection error. Please enter correct credentials."
+msgstr ""
+
+msgid "Database Links configuration"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Google sheet access"
+msgstr ""
+
+msgid "Direct mySQL access"
+msgstr ""
+
+msgid "Registered database"
+msgstr ""
+
+msgid "Namespace"
+msgstr ""
+
+msgid "Hardcoded MySQL DB"
+msgstr ""
+
+msgid "Select Database"
+msgstr ""
+
+msgid "Registered lookup id"
+msgstr ""
+
+msgid "Source of keyfield"
+msgstr ""
+
+msgid "Key field"
+msgstr ""
+
+msgid "Select field"
+msgstr ""
+
+msgid "Field label"
+msgstr ""
+
+msgid "wp2print User account"
+msgstr ""
+
+msgid "Collect key field in product page"
+msgstr ""
+
+msgid "Photos URL"
+msgstr ""
+
+msgid "is required field"
+msgstr ""
+
+msgid "This MLS ID was not found in the database."
+msgstr ""
+
+msgid "Show PDF link in order email"
+msgstr ""
+
+msgid "Download"
+msgstr ""
+
+msgid "Download PDF"
+msgstr ""
+
+msgid "Advanced configuration"
+msgstr ""
+
+msgid "Display Download PDF button in cart"
+msgstr ""
+
+msgid "User is logged in"
+msgstr ""
+
+msgid "User not logged in"
+msgstr ""

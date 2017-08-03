@@ -1,0 +1,228 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: personalize\n"
+"POT-Creation-Date: 2014-02-20 13:29+0530\n"
+"PO-Revision-Date: 2016-06-22 17:07+0200\n"
+"Last-Translator: John Weissberg <jw@printscience.com>\n"
+"Language-Team: info@printscience.com\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../personalize.php:125
+msgid "Product Personalization Settings"
+msgstr "Paramètres du Designer"
+
+#: ../personalize.php:127
+msgid "API Username"
+msgstr "Nom d'utilisateur API"
+
+#: ../personalize.php:128
+msgid "API Key"
+msgstr "Clé API"
+
+#: ../personalize.php:129
+msgid "API Version"
+msgstr "Version API"
+
+#: ../personalize.php:144
+msgid "API URL"
+msgstr "URL du API"
+
+#: ../personalize.php:145
+msgid "API Image URL"
+msgstr "API URL de l'image"
+
+#: ../personalize.php:146
+msgid "Window type for launch of Designer"
+msgstr "Type de fenêtre du Designer"
+
+#: ../personalize.php:159
+msgid "Background color of margin surrounding the modal window"
+msgstr "La couleur de fond entourant la fenêtre modale"
+
+#: ../personalize.php:159
+msgid "* Specify the background color"
+msgstr "Précisez la couleur de fond"
+
+#: ../personalize.php:160
+msgid "Opacity of modal window"
+msgstr "Opacité de fenêtre modale"
+
+#: ../personalize.php:161
+msgid "Width of margin surrounding the modal window"
+msgstr "Largeur de la marge entourant la fenêtre modale"
+
+#: ../personalize.php:163
+msgid "Save Settings"
+msgstr "Enregistrer les paramètres"
+
+#: ../personalize.php:176
+msgid "Personalization"
+msgstr "Personnalisation"
+
+#: ../personalize.php:194
+msgid "Enable Personalization"
+msgstr "activer Personnalisation"
+
+#: ../personalize.php:194
+msgid "Enable personalization via Print Science Designer."
+msgstr "Activer la personnalisation via Designer Imprimer science"
+
+#: ../personalize.php:196
+msgid "Product ID"
+msgstr "ID de produit"
+
+#: ../personalize.php:331
+msgid "Add to cart"
+msgstr "Ajouter au panier"
+
+#: ../personalize.php:383
+msgid "Personalize"
+msgstr "Personnaliser"
+
+#: ../personalize.php:690
+msgid "Remove this item"
+msgstr "Supprimer cet article"
+
+#: ../personalize.php:774
+msgid "Re-edit"
+msgstr "ré-Modif"
+
+#: ../personalize.php:742
+msgid "Available on backorder"
+msgstr "Disponible en rupture de stock"
+
+#: ../personalize.php:969
+msgid "Order Items"
+msgstr "ordre Articles"
+
+#: ../personalize.php:969
+msgid ""
+"Note: if you edit quantities or remove items from the order you will need to "
+"manually update stock levels."
+msgstr ""
+"Remarque : si vous modifiez les quantités ou supprimer des éléments de "
+"l'ordre que vous aurez besoin de  mettre à jour manuellement les niveaux de "
+"stock ."
+
+#: ../personalize.php:992
+msgid "Item"
+msgstr "Article"
+
+#: ../personalize.php:997
+msgid "Tax Class"
+msgstr "classe de TVA"
+
+#: ../personalize.php:997
+msgid "Tax class for the line item"
+msgstr "Classe d'impôt pour l’article"
+
+#: ../personalize.php:1000
+msgid "Qty"
+msgstr "Qté"
+
+#: ../personalize.php:1002
+msgid "Totals"
+msgstr "totaux"
+
+#: ../personalize.php:1002
+msgid "Line subtotals are before pre-tax discounts, totals are after."
+msgstr ""
+"Les sous-totaux de ligne sont avant remises avant impôts, les totaux sont "
+"après ."
+
+#: ../personalize.php:1005
+msgid "Tax"
+msgstr "Impôt"
+
+#: ../personalize.php:1039
+msgid "Actions"
+msgstr "Actions"
+
+#: ../personalize.php:1040
+msgid "Edit"
+msgstr "Modifier"
+
+#: ../personalize.php:1041
+msgid "Delete Lines"
+msgstr "Supprimer Lines"
+
+#: ../personalize.php:1043
+msgid "Stock Actions"
+msgstr "Stock Actions"
+
+#: ../personalize.php:1044
+msgid "Reduce Line Stock"
+msgstr "Réduire Ligne Stock"
+
+#: ../personalize.php:1045
+msgid "Increase Line Stock"
+msgstr "Augmenter la ligne Stock"
+
+#: ../personalize.php:1049
+msgid "Apply"
+msgstr "Appliquer"
+
+#: ../personalize.php:1053
+msgid "Search for a product&hellip;"
+msgstr "Rechercher un produit & hellip;"
+
+#: ../personalize.php:1055
+msgid "Add item(s)"
+msgstr "Ajouter article(s)"
+
+#: ../personalize.php:1056
+msgid "Add fee"
+msgstr "Ajouter des frais"
+
+#: ../woo_include/order-fee-html.php:10
+msgid "Fee Name"
+msgstr "Nom de Fee"
+
+#: ../woo_include/order-fee-html.php:17 ../woo_include/order-item-html.php:113
+msgid "Tax class"
+msgstr "Classe d'impôt"
+
+#: ../woo_include/order-fee-html.php:19
+msgid "N/A"
+msgstr "N/A"
+
+#: ../woo_include/order-fee-html.php:20
+msgid "Taxable"
+msgstr "Imposable"
+
+#: ../woo_include/order-fee-html.php:25 ../woo_include/order-item-html.php:120
+msgid "Standard"
+msgstr "Standard"
+
+#: ../woo_include/order-fee-html.php:43 ../woo_include/order-item-html.php:139
+msgid "Total"
+msgstr "Total"
+
+#: ../woo_include/order-item-html.php:26
+msgid "Product ID:"
+msgstr "ID de produit:"
+
+#: ../woo_include/order-item-html.php:29
+msgid "Variation ID:"
+msgstr "ID du template:"
+
+#: ../woo_include/order-item-html.php:32
+msgid "Product SKU:"
+msgstr "Référence du produit:"
+
+#: ../woo_include/order-item-html.php:64
+msgid "Add&nbsp;meta"
+msgstr "Ajouter&nbsp;meta"
+
+#: ../woo_include/order-item-html.php:141
+msgid "Subtotal"
+msgstr "Sous-total"
